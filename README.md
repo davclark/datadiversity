@@ -1,4 +1,6 @@
 # Data and Diversity Project Course
+## Changes to read me file
+### Test
 
 http://datadiversity.berkeley.edu/
 
@@ -25,5 +27,9 @@ The Berkeley Common Environment [(BCE)](http://bce.berkeley.edu/) maintains a vi
 - [Installation instructions](http://bce.berkeley.edu/install.html)
 
 If you're new to linux, this [tutorial](http://linuxcommand.org/learning_the_shell.php) for using the Terminal might be helpful.  These commands will also be reviewed in class.
+
+### Website Recommendations
+1. Markdown Basics: http://daringfireball.net/projects/markdown/basics
+2. Github: https://github.com/
 
 
